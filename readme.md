@@ -14,7 +14,7 @@ git clone https://github.com/HqmmSam/ink_contract.git
 ```
 
 安装依赖
-````
+```
 cd ink_contract
 npm install
 ```
